@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a third-year Software Engineering student, I am focused on building practical, real-world software systems with a strong emphasis on AI, computer vision, and scalable backend solutions. I have a solid foundation in C, C++, Java, and Python, which I use to develop efficient and reliable applications.
+As a third-year Software Engineering student, I am focused on building practical, real-world software systems with a strong emphasis on AI, computer vision, and Machine Learning Models. I have a solid foundation in C, C++, Java, and Python, which I use to develop efficient and reliable applications.
 
 My current work centers around developing intelligent systems, including an AI-based ambulance monitoring solution that leverages object detection, vehicle tracking, and license plate recognition to address real-world traffic challenges. Alongside this, I build cross-platform mobile applications using Flutter, enabling seamless user experiences across Android and iOS.
 
