@@ -1,5 +1,12 @@
 # 💫 About Me:
-As a third-year Software Engineering student, I am deeply passionate about technology and software development. With proficiency in C,C++, Java, and Python, I have a solid foundation in programming languages and problem-solving. I am currently focusing on developing cross-platform applications using Flutter, a skill that allows me to create seamless mobile experiences for both iOS and Android.<br><br>I thrive on exploring new technologies, experimenting with coding, and applying tech-driven solutions to real-world problems. I am committed to continuous learning and growth, always eager to work on innovative projects that challenge me to think critically and push my boundaries as a software engineer.<br><br>My goal is to contribute meaningfully to the tech community, collaborate with like-minded professionals, and drive the development of impactful software solutions.
+As a third-year Software Engineering student, I am focused on building practical, real-world software systems with a strong emphasis on AI, computer vision, and scalable backend solutions. I have a solid foundation in C, C++, Java, and Python, which I use to develop efficient and reliable applications.
+
+My current work centers around developing intelligent systems, including an AI-based ambulance monitoring solution that leverages object detection, vehicle tracking, and license plate recognition to address real-world traffic challenges. Alongside this, I build cross-platform mobile applications using Flutter, enabling seamless user experiences across Android and iOS.
+
+I am particularly interested in the intersection of AI and software engineering—combining machine learning models with production-ready systems using tools like OpenCV, PyTorch, Flask, and MySQL. I actively explore new technologies, experiment with system design, and focus on deploying complete, end-to-end solutions rather than isolated features.
+
+My goal is to grow into a software engineer who can design and deliver impactful, scalable systems, contribute to meaningful innovations, and collaborate on solving complex, real-world problems through technology.
+
 
 
 ## 🌐 Socials:
