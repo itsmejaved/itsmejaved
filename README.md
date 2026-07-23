@@ -10,7 +10,7 @@ My goal is to grow into a software engineer who can design and deliver impactful
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Seikh Mahammad Javed ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javed31cse@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Seikh Mahammad Javed](https://www.linkedin.com/in/seikh-mahammad-javed-ba29b4215) ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javed31cse@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
